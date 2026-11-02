@@ -1,2 +1,4 @@
 print ("Whats your name?")
-input()
+x = input()
+print(x)
+
