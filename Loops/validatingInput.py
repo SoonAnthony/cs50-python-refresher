@@ -1,5 +1,5 @@
 while True:
-    n = input("What's n? ")
+    n = int( input("What's n? "))
     if n >0 :
         break
 for _ in range(n):
